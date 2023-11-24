@@ -1,0 +1,1 @@
+Nombre del paciente: Pedro AlvarezFecha de cita: 18/11/2023 14:00:00Razon de Consulta: LimpezaCosto de consulta: 25

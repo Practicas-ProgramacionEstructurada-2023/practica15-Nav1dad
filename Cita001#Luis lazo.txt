@@ -1,0 +1,4 @@
+Nombre del paciente: Luis lazo
+Fecha de cita: 12/10/2023 15:30:00
+Razon de Consulta: Dolor
+Costo de consulta: 30
